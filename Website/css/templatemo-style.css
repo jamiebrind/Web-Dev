@@ -850,7 +850,7 @@
   .hero-unit h6 {
     margin-top: -0.5rem;
     margin-bottom: 0;
-    color: white;
+    color: rgb(255, 255, 255);
   }
   .hero-unit h1 {
     font-weight: bold;
@@ -862,7 +862,7 @@
     display: block;
     margin: 0.5rem auto 0;
     font-size: 2rem;
-    color: white;
+    color: rgb(255, 255, 255);
   }
   .hero-unit .clients {
     margin: 2rem auto;
@@ -883,7 +883,7 @@
     padding: 3.25rem;
   }
   .button.large a {
-    color: white;
+    color: rgb(255, 255, 255);
     font-size: 1.75rem;
     font-weight: 100;
     margin-top: 2rem;
@@ -1239,7 +1239,8 @@
   
   .card__heading{
     color: var(--text-lighter);
-    font-size: 1.9rem;
+    font-size: 200%;
+    text-align: center;
     text-shadow: 2px 2px 20px rgba(0,0,0,0.2);
     line-height: 1.4;
     word-spacing: 100vw;
